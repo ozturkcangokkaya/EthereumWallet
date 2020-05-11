@@ -1,4 +1,4 @@
-# Ethereum Wallet & Transfer App
+# Ethereum Wallet & Transfer App
 
 ## Available Scripts
 
